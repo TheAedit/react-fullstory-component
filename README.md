@@ -1,10 +1,5 @@
 # React FullStory Component
-[![Build Status](https://travis-ci.org/stikmanw/react-fullstory-component.svg?branch=master)](https://travis-ci.org/stikmanw/react-fullstory-component)
-[![NPM version][npm-image]][npm-url]
-
-[npm-image]: http://img.shields.io/npm/v/react-fullstory-component.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/react-fullstory-component
-
+* Please note: The main repo is no longer actively maintained and is outdated so we have forked and updated it for our uses. 
 
 ## Synopsis
 This is a ReactJS Component and library for integrating FullStory into your ReactJS Application or customer JavaScript application.
@@ -19,10 +14,10 @@ npm install react-fullstory-component
 ```
 
 ## Compatible Version
-* React 0.13.3 1.0+ 
+* React 0.13.3 1.0+
 * React 15+ 2.0+
 
-Make sure you install the correct verson depending on which version of react your are running.  Thanks to Thinh for updating the component to work with React 15. 
+Make sure you install the correct verson depending on which version of react your are running.  Thanks to Thinh for updating the component to work with React 15.
 
 
 ## Component Code Examples
